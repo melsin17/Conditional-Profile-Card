@@ -44,7 +44,7 @@ window.onload = function() {
     socialMediaPosition: "left",
     // social media usernames
     twitter: null,
-    github: "alesanchezr",
+    github: "melsin17",
     linkedin: null,
     instagram: null,
     name: null,
