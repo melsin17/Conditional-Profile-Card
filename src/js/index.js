@@ -36,7 +36,11 @@ function render(variables = {}) {
           <h1>${variables.name} ${variables.lastname}</h1>
           <h2>${variables.role}</h2>
           <h3>${variables.city}${variables.country}</h3>
+<<<<<<< HEAD
           <ul class= ${variables.socialMediaPosition}>
+=======
+          <ul class="position-right">
+>>>>>>> 891784073019d82c4fb5b50df686bcf656f5127b
             <li><a href="https://twitter.com/alesanchezr"><i class="fa fa-twitter"></i></a></li>
             <li><a href="https://github.com/alesanchezr"><i class="fa fa-github"></i></a></li>
             <li><a href="https://linkedin.com/alesanchezr"><i class="fa fa-linkedin"></i></a></li>
@@ -63,7 +67,7 @@ window.onload = function() {
     socialMediaPosition: "position-left",
     // social media usernames
     twitter: null,
-    github: "alesanchezr",
+    github: "melsin17",
     linkedin: null,
     instagram: null,
     name: null,
