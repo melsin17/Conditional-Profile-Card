@@ -28,17 +28,10 @@
   },
   "homepage": "https://github.com/4GeeksAcademy/vanillajs-hello#readme",
   "dependencies": {
-<<<<<<< HEAD
     "bootstrap": "^4.4.1",
     "breathecode-dom": "^1.0.0",
     "jquery": "^3.5.0",
     "popper.js": "^1.16.1"
-=======
-    "bootstrap": "^4.5.0",
-    "breathecode-dom": "^1.0.0",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.14.3"
->>>>>>> 891784073019d82c4fb5b50df686bcf656f5127b
   },
   "devDependencies": {
     "babel": "^6.23.0",
@@ -56,10 +49,7 @@
     "flow-bin": "^0.88.0",
     "flow-webpack-plugin": "^1.2.0",
     "gh-pages": "^1.2.0",
-<<<<<<< HEAD
     "html-webpack-plugin": "^4.2.0",
-=======
->>>>>>> 891784073019d82c4fb5b50df686bcf656f5127b
     "node-sass": "^4.14.1",
     "parse-github-url": "^1.0.2",
     "prettier": "^1.19.1",
@@ -68,11 +58,7 @@
     "sass-loader": "^7.3.1",
     "style-loader": "^0.21.0",
     "webpack": "^4.43.0",
-<<<<<<< HEAD
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
-=======
-    "webpack-cli": "^2.0.14"
->>>>>>> 891784073019d82c4fb5b50df686bcf656f5127b
   }
 }
